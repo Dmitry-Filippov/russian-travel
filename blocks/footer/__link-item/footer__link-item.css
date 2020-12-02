@@ -1,0 +1,12 @@
+.footer__link-item:first-child .footer__link {
+  padding: 0;
+}
+
+@media screen and (max-width:767px) {
+  .footer__link-item {
+    padding-top: 32px;
+  }
+  
+  .footer__link-item:first-child {
+    padding: 0;
+  }
