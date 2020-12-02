@@ -1,0 +1,29 @@
+.cover {
+  margin: 0 auto;
+  margin-top: 92px;
+  width: 1184px;
+  background-image: url(../../images/cover-background.jpg);
+  background-size: cover;
+}
+
+.cover a {
+  text-decoration: none;
+}
+
+@media screen and (max-width:1279px) {
+  .cover {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .cover {
+    margin-top: 90px;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .cover {
+    margin-top: 99px;
+  }
+}
