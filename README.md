@@ -6,5 +6,5 @@
 * Grid 
 * Flexbox 
 
-[Ссылка на GitHub](https://dmitry-filippov.github.io/russian-travel/) 
+[Ссылка на Pages](https://dmitry-filippov.github.io/russian-travel/)
 
